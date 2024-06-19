@@ -11,6 +11,8 @@ Extended Euclidean Algorithm:
 - Implementation of the algorithm to compute the GCD of two integers.
 - Calculation of coefficients that express the GCD as a linear combination of the given integers.
 - Practical applications and examples to demonstrate the algorithm's usefulness.
+- ![image](https://github.com/Nikeel03/Extended-Euclidean-Algorithm/assets/167813992/992560ed-4d10-4dbe-aa2f-36626906382e)
+
 
 Galois Fields:
 
