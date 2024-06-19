@@ -13,7 +13,7 @@ Extended Euclidean Algorithm:
 - Calculation of coefficients that express the GCD as a linear combination of the given integers.
 - Practical applications and examples to demonstrate the algorithm's usefulness.
 
-Galois Fields:
+> Galois Fields:
 
 - Implementation of arithmetic operations in Galois Fields.
 - Exploration of finite field properties and their applications.
